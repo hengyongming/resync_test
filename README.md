@@ -2,7 +2,7 @@ Implement a task tracker app using Firebase Auth and Cloud Firestore:
 
 1) Create a base flutter project. 
 
-2) Create a firebase project and link it to the mobile app project.(just work on the android part of the app, don't worry about the ios side).
+2) Create a firebase project and link it to the mobile app project. (just work on the android part of the app, don't worry about the ios side).
 
 3) This will be a 2 page-app, you are free to implement the navigation between the pages using a bottom nav bar or a    drawer.
 
@@ -33,4 +33,4 @@ The assignment will be evaluated according to the following criteria:
 
 The expected duration of this assignment is between 3 and 8 hours.
 
-When submitting the assignment, push the entire flutter project to a separate branch in this repo with this naming convention <your-name>_flutter_assignment. If there are any parts of this assignment that you can not complete, include a brief explanation of why in a shortcomings.txt file in the root folder. All the best!
+When submitting the assignment, push the entire flutter project to a separate branch in this repo with this naming convention <yourName>_flutter_assignment. If there are any parts of this assignment that you can not complete, include a brief explanation of why in a shortcomings.txt file in the root folder. All the best!
