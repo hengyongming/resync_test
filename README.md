@@ -19,7 +19,9 @@ Implement a task tracker app using Firebase Auth and Cloud Firestore:
 8) Implement a sign-out functionality as well. 
 
 
-Feel free to use any libraries that you may require,when building the UI and navigating between screens, choose the approach that makes most sense in terms of usability. Adding tests is not required for this project, but the final code should be testable.
+Leave the api key (if any) for the firebase project in the code you submit and also keep the firebase project active. We will delete the branch once your code is reviewed and you can deactivate the firebase project after we inform you that the code review is over.
+
+Feel free to use any libraries that you may require, when building the UI and navigating between screens, choose the approach that makes most sense in terms of usability. Adding tests is not required for this project, but the final code should be testable.
 
 If some requirements appear to be vague or lack sufficient details, make assumptions based on your own judgment.
 
