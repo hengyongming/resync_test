@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "214372778378",
+    "project_id": "task-tracker-7d807",
+    "storage_bucket": "task-tracker-7d807.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:214372778378:android:1426c86b51e8c09f4b8873",
+        "android_client_info": {
+          "package_name": "com.resync.Task_Tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "214372778378-05f7bb2h6jci7h1oouak3ivnhgv91t1i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVF_hY3a-xwNsBthqfZPnTvtySQjdyRcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "214372778378-05f7bb2h6jci7h1oouak3ivnhgv91t1i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
